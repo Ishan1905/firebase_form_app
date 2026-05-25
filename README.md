@@ -1,17 +1,19 @@
-# firebase_form_app
+# Firebase Form App
 
-A new Flutter project.
+A Flutter application integrated with Firebase Cloud Firestore to collect and store user information.
 
-## Getting Started
+## Features
+- User input form
+- Firebase integration
+- Cloud Firestore database
+- Stores name, email, and timestamp
+- Modern Flutter UI
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Firebase
+- Cloud Firestore
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Ishan Maurya
